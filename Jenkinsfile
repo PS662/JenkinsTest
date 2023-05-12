@@ -54,7 +54,7 @@ pipeline {
                 subject: "Jenkins Job '${env.JOB_NAME}': ${currentBuild.currentResult}",
                 body: "See the attached log for details",
                 attachLog: true,
-                to: 'prateeksingh31094@gmail.com'
+                to: 'singh.prateek662@gmail.com'
             )
         }
     }

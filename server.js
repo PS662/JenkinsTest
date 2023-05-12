@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
       <head>
-        <title>Calculator</title>
+        <title>Sample Web Serve</title>
       </head>
       <body>
         <h1>Hello Jenkins!!</h1>
