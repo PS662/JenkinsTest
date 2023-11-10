@@ -1,10 +1,5 @@
 # Jenkins Test
 
-## Table of Contents
+Dummy Jenkins CI/CD pipeline
 
-- [About](#about)
-
-## About <a name = "about"></a>
-
-Test Dummy Jenkins CI/CD pipeline
-
+Watch it here: https://www.youtube.com/watch?v=u6Ld2K_nd0c
